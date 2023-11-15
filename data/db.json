@@ -1,0 +1,136 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "ordi",
+      "price": 3540,
+      "checked": "on"
+    },
+    {
+      "id": 2,
+      "name": "imprimante",
+      "price": 480,
+      "checked": true
+    },
+    {
+      "id": 3,
+      "name": "souris",
+      "price": 35,
+      "checked": "on"
+    },
+    {
+      "id": 4,
+      "name": "clavier55",
+      "price": "700",
+      "checked": true
+    },
+    {
+      "name": "cable",
+      "price": "15400",
+      "checked": false,
+      "id": 5
+    },
+    {
+      "name": "ecran",
+      "price": "751",
+      "checked": false,
+      "id": 6
+    },
+    {
+      "name": "clef",
+      "price": "45",
+      "checked": true,
+      "id": 7
+    },
+    {
+      "name": "alimentation",
+      "price": "2547",
+      "checked": false,
+      "id": 8
+    },
+    {
+      "name": "jouet",
+      "price": "856",
+      "checked": true,
+      "id": 9
+    },
+    {
+      "name": "bidon",
+      "price": "475",
+      "checked": false,
+      "id": 10
+    },
+    {
+      "name": "chaussures",
+      "price": "475",
+      "checked": true,
+      "id": 11
+    },
+    {
+      "name": "tapis",
+      "price": "42",
+      "checked": false,
+      "id": 12
+    },
+    {
+      "name": "stylo",
+      "price": "24",
+      "checked": true,
+      "id": 13
+    },
+    {
+      "name": "stylo",
+      "price": "24",
+      "checked": false,
+      "id": 14
+    },
+    {
+      "name": "transfo",
+      "price": "4500",
+      "checked": false,
+      "id": 15
+    },
+    {
+      "name": "filtre",
+      "price": "2400",
+      "checked": true,
+      "id": 16
+    },
+    {
+      "id": 17,
+      "name": "stylo",
+      "price": "182",
+      "checked": false
+    },
+    {
+      "name": "popo",
+      "price": "4000",
+      "checked": "on",
+      "id": 18
+    },
+    {
+      "name": "585",
+      "price": "100",
+      "checked": "false",
+      "id": 19
+    },
+    {
+      "name": "585lpkjo",
+      "price": "100",
+      "checked": true,
+      "id": 20
+    },
+    {
+      "name": "hgj",
+      "price": "0551",
+      "checked": "false",
+      "id": 21
+    },
+    {
+      "name": "hgjeets",
+      "price": "055100",
+      "checked": "false",
+      "id": 22
+    }
+  ]
+}
