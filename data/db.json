@@ -2,9 +2,9 @@
   "products": [
     {
       "id": 1,
-      "name": "ordi",
-      "price": 3540,
-      "checked": "on"
+      "name": "ordi12",
+      "price": 963,
+      "checked": false
     },
     {
       "id": 2,
@@ -16,121 +16,169 @@
       "id": 3,
       "name": "souris",
       "price": 35,
-      "checked": "on"
+      "checked": true
     },
     {
       "id": 4,
       "name": "clavier55",
-      "price": "700",
+      "price": 700,
+      "checked": false
+    },
+    {
+      "id": 5,
+      "name": "cable",
+      "price": 15400,
+      "checked": false
+    },
+    {
+      "id": 6,
+      "name": "ecran",
+      "price": 751,
       "checked": true
     },
     {
-      "name": "cable",
-      "price": "15400",
-      "checked": false,
-      "id": 5
-    },
-    {
-      "name": "ecran",
-      "price": "751",
-      "checked": false,
-      "id": 6
-    },
-    {
       "name": "clef",
-      "price": "45",
+      "price": 45,
       "checked": true,
       "id": 7
     },
     {
+      "id": 8,
       "name": "alimentation",
-      "price": "2547",
-      "checked": false,
-      "id": 8
+      "price": 2547,
+      "checked": true
     },
     {
-      "name": "jouet",
-      "price": "856",
-      "checked": true,
-      "id": 9
+      "id": 9,
+      "name": "jouet2",
+      "price": 856,
+      "checked": true
     },
     {
       "name": "bidon",
-      "price": "475",
-      "checked": false,
+      "price": 475,
+      "checked": true,
       "id": 10
     },
     {
       "name": "chaussures",
-      "price": "475",
+      "price": 475,
       "checked": true,
       "id": 11
     },
     {
+      "id": 12,
       "name": "tapis",
-      "price": "42",
-      "checked": false,
-      "id": 12
+      "price": 42,
+      "checked": true
     },
     {
       "name": "stylo",
-      "price": "24",
+      "price": 24,
       "checked": true,
       "id": 13
     },
     {
       "name": "stylo",
-      "price": "24",
+      "price": 24,
       "checked": false,
       "id": 14
     },
     {
       "name": "transfo",
-      "price": "4500",
+      "price": 4500,
       "checked": false,
       "id": 15
     },
     {
       "name": "filtre",
-      "price": "2400",
+      "price": 2400,
       "checked": true,
       "id": 16
     },
     {
       "id": 17,
       "name": "stylo",
-      "price": "182",
-      "checked": false
+      "price": 182,
+      "checked": true
     },
     {
       "name": "popo",
-      "price": "4000",
-      "checked": "on",
+      "price": 4000,
+      "checked": true,
       "id": 18
     },
     {
-      "name": "585",
-      "price": "100",
-      "checked": "false",
-      "id": 19
+      "id": 19,
+      "name": "xdvvh",
+      "price": 100,
+      "checked": false
     },
     {
       "name": "585lpkjo",
-      "price": "100",
+      "price": 100,
       "checked": true,
       "id": 20
     },
     {
       "name": "hgj",
-      "price": "0551",
-      "checked": "false",
+      "price": 551,
+      "checked": true,
       "id": 21
     },
     {
       "name": "hgjeets",
-      "price": "055100",
-      "checked": "false",
+      "price": 55100,
+      "checked": true,
       "id": 22
+    },
+    {
+      "id": 23,
+      "name": "c nbnn",
+      "price": 4557,
+      "checked": false
+    },
+    {
+      "id": 24,
+      "name": "dfbdf45",
+      "price": 45,
+      "checked": true
+    },
+    {
+      "id": 25,
+      "name": "xxc fffdf",
+      "price": 85455,
+      "checked": true
+    },
+    {
+      "name": "hgtf",
+      "price": 547,
+      "checked": true,
+      "id": 26
+    },
+    {
+      "name": "dddd",
+      "price": 4454,
+      "checked": true,
+      "id": 27
+    },
+    {
+      "name": "ssss",
+      "price": 555,
+      "checked": true,
+      "id": 28
+    },
+    {
+      "name": "llkkj",
+      "price": 45,
+      "checked": true,
+      "id": 29
+    },
+    {
+      "name": "trhfdhb",
+      "price": 75676,
+      "checked": true,
+      "id": 30
     }
   ]
 }

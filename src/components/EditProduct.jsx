@@ -11,7 +11,7 @@ export default function EditProduct() {
   useEffect(()=>{
    
     handleGetProductById(id);
-  },[]);
+  },[id]);
   const handleGetProductById=(id)=>{
     getProductById(id).then((resp)=>{
      let product =resp.data;
@@ -44,15 +44,15 @@ export default function EditProduct() {
               </div>
               <div className="mb-3">
                 <label  className="form-label">Price :</label>
-                <input  onChange={(e)=>setPrice(e.target.value)}
+                <input  onChange={(e)=>setPrice(Number(e.target.value))}
                 value={price}
                 type="text" className="form-control"/>
               </div>
               <div className="form-check">
                 <input 
-                 onChange={(e)=>setChecked(e.target.value)}
+                 onChange={()=>setChecked(!checked)}
                  checked={checked}
-                type="checkbox" className="form-check-input" />
+                 type="checkbox" className="form-check-input" />
                 <label form="flexCheckChecked" className="form-check-label">checked</label>
               </div>
               <div className="align-self-end">

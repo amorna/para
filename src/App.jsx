@@ -11,10 +11,10 @@ function App() {
   const [currentRoute,setCurrentRoute]=useState();
   useEffect(()=>{
     const path=window.location.pathname.toLocaleLowerCase();
-    // console.log(path)
+    
     setCurrentRoute(path.slice(1,path.length))
-   // console.log(currentRoute)
-  },[currentRoute])
+ 
+  },[])
   return (
     <>
        <BrowserRouter>

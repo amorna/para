@@ -17,6 +17,7 @@ export default function Products() {
   });
   useEffect(()=>{
     handleGetProducts(state.keyword,state.currentPage,state.pageSize);
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   },[])
 
   const handleGetProducts=(keyword,page,size)=>{

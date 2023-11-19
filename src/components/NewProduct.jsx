@@ -27,13 +27,13 @@ export default function NewProduct() {
               </div>
               <div className="mb-3">
                 <label  className="form-label">Price :</label>
-                <input  onChange={(e)=>setPrice(e.target.value)}
+                <input  onChange={(e)=>setPrice(Number(e.target.value))}
                 value={price}
                 type="text" className="form-control"/>
               </div>
               <div className="form-check">
                 <input 
-                 onChange={(e)=>setChecked(e.target.value)}
+                 onChange={()=>setChecked(!checked)}
                  checked={checked}
                 type="checkbox" className="form-check-input" />
                 <label form="flexCheckChecked" className="form-check-label">checked</label>
