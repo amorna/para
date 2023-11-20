@@ -16,7 +16,7 @@
       "id": 3,
       "name": "souris",
       "price": 35,
-      "checked": true
+      "checked": false
     },
     {
       "id": 4,
@@ -169,10 +169,10 @@
       "id": 28
     },
     {
-      "name": "llkkj",
-      "price": 45,
-      "checked": true,
-      "id": 29
+      "id": 29,
+      "name": "llkkjx",
+      "price": 145,
+      "checked": false
     },
     {
       "name": "trhfdhb",
